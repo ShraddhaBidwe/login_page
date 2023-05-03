@@ -1,0 +1,46 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.body{
+
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient( rgb(235, 139, 139), rgb(46, 46, 44));
+}
+.login-form{
+   height:max-content;
+   border-radius: 12px;
+   background: #fff;
+   position:absolute;
+   top: 30%;
+   left: 40%;
+   margin:auto;
+   width: 350px;
+   border: 3px solid #16999b;
+   padding-top: 40px;
+   padding-bottom: 40px;
+
+}
+
+.login-form h1{
+    font-size: 50px;
+}
+
+.user-name{
+    font-size: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+
+}
+
+.password{
+    font-size: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+

@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    background-image: linear-gradient(rgb(168, 156, 156), rgb(226, 226, 232));
+}
+
+.file-upload{
+    padding-top: 5%;
+}
+
+.file-upload h1{
+    font-size: 55px;
+    padding-bottom: 5%;
+}
+
+.upload-section{
+   margin:auto;
+   width: 400px;
+   border: 3px solid #16999b;
+   height:max-content;
+   padding-top: 5%;
+   padding-bottom: 5%;
+   
+}
+
+.upload-section h3{
+    font-size: 30px;
+    padding-bottom: 15%;
+
+}
+
+.form-control{
+    font-size: 20px;
+    padding-left: 20%;
+    padding-bottom: 5%;
+    
+}
+
+.upload-btn{
+    font-size: 20px;
+    width: 90px;
+    height: 5vh;
+    color: blue;
+}
